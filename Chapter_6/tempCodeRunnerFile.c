@@ -1,0 +1,1 @@
+printf("Marks : %d count: %d\n",marks,count);

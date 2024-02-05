@@ -1,0 +1,2 @@
+Enter the decimal number: 
+1011111

@@ -1,0 +1,2 @@
+ENter the redius of the circle: 
+area of the circle is: 78.54
